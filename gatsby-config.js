@@ -2,14 +2,17 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: config.siteTitle,
-    siteUrl: config.siteUrl,
-    description: config.siteDescription,
+    title: 'Yovin Yahathugoda | Electronic Engineer',
+    description:
+      'Yovin Yahathugoda is an Electronic Engineer based in Colombo, Sri Lanka with experience in R&D and Deep Learning/Machine Learning.',
+    siteUrl: 'https://www.yovinyahathugoda.com', // No trailing slash allowed!
+    image: '/og.png', // Path to your image you placed in the 'static' folder
+    twitterUsername: '@YovinRY',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
-	`gatsby-plugin-image`,
+    `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sitemap`,
@@ -28,24 +31,31 @@ module.exports = {
     },
     `gatsby-plugin-offline`,
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `images`,
+        path: `${__dirname}/src/images`,
+      },
+    },
+    {
       resolve: 'gatsby-source-filesystem',
       options: {
         name: 'content',
         path: `${__dirname}/content/`,
       },
     },
-    // {
-    //   resolve: `gatsby-source-filesystem`,
-    //   options: {
-    //     path: `${__dirname}/content/posts`,
-    //     name: `posts`,
-    //   },
-    // },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/projects`,
+        name: `posts`,
+        path: `${__dirname}/content/posts`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
         name: `projects`,
+        path: `${__dirname}/content/projects`,
       },
     },
     {
@@ -142,7 +152,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: config.googleAnalyticsID,
+        trackingId: 'UA-173999919-1',
       },
     },
   ],
