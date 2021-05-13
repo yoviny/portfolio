@@ -174,8 +174,6 @@ const ArchivePage = ({ location, data }) => {
                     date,
                     github,
                     external,
-                    // ios,
-                    // android,
                     title,
                     tech,
                     company,
@@ -213,7 +211,6 @@ const ArchivePage = ({ location, data }) => {
                               <Icon name="GitHub" />
                             </a>
                           )}
-
                         </div>
                       </td>
                     </tr>
@@ -247,8 +244,6 @@ export const pageQuery = graphql`
             tech
             github
             external
-            // ios
-            // android
             company
           }
           html
