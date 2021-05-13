@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '3'
 title: 'HuBMAP - Hacking the Kidney'
 cover: './hubmap.png'
 github: 'https://github.com/yoviny/Deep-learning-Competitions/tree/master/HuBMAP%20-%20Hacking%20the%20Kidney'

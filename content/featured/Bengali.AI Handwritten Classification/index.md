@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '1'
 title: 'Bengali.AI Handwritten Grapheme Classification'
 cover: './image.png'
 github: 'https://github.com/yoviny/Deep-learning-Competitions/tree/master/Bengali.Ai%20classification%20challenge'
