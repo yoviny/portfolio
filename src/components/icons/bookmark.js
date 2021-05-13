@@ -1,4 +1,4 @@
-bookmark.jsimport React from 'react';
+import React from 'react';
 
 const IconBookmark = () => (
   <svg
