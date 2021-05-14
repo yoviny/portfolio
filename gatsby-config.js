@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Yovin Yahathugoda | Electronic Engineer',
     description:
-      'Yovin Yahathugoda is an Electronic Engineer based in Colombo, Sri Lanka with experience in R&D and Deep Learning/Machine Learning.',
+      'Yovin Yahathugoda is an Electronic Engineer with experience in R&D and Deep Learning/Machine learning experience in image classification/segmentation.',
     siteUrl: 'https://www.yovinyahathugoda.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@YovinRY',
