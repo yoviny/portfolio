@@ -73,21 +73,21 @@ const Footer = () => {
     forks: null,
   });
 
-  useEffect(() => {
-    if (process.env.NODE_ENV !== 'production') {
-      return;
-    }
-    fetch('https://api.github.com/repos/yoviny/portfolio')
-      .then(response => response.json())
-      .then(json => {
-        const { stargazers_count, forks_count } = json;
-        setGitHubInfo({
-          stars: stargazers_count,
-          forks: forks_count,
-        });
-      })
-      .catch(e => console.error(e));
-  }, []);
+//   useEffect(() => {
+//     if (process.env.NODE_ENV !== 'production') {
+//       return;
+//     }
+//     fetch('https://api.github.com/repos/yoviny/portfolio')
+//       .then(response => response.json())
+//       .then(json => {
+//         const { stargazers_count, forks_count } = json;
+//         setGitHubInfo({
+//           stars: stargazers_count,
+//           forks: forks_count,
+//         });
+//       })
+//       .catch(e => console.error(e));
+//   }, []);
 
   return (
     <StyledFooter>
