@@ -2,9 +2,9 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Yovin Yahathugoda | Electronic Engineer',
+    title: 'Yovin Yahathugoda',
     description:
-      'Yovin Yahathugoda is an Electronic Engineer with experience in R&D and Deep Learning/Machine learning experience in image classification/segmentation.',
+      'Yovin Yahathugoda is an Electronic Engineer with experience in R&D and Deep Learning/Machine learning experience in image classification & segmentation.',
     siteUrl: 'https://www.yovinyahathugoda.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@YovinRY',
