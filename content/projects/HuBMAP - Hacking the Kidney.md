@@ -10,7 +10,7 @@ tech:
   - Rasterio
   - Sklearn
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 Identify glomeruli in human kidney tissue images
