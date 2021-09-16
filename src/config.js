@@ -16,7 +16,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yovin-yahathugoda-905760136/',
+      url: 'https://www.linkedin.com/in/yovin-yahathugoda/',
     },
     // {
     //   name: 'Codepen',
