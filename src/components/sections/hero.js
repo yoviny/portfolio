@@ -60,11 +60,10 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Yovin Yahathugoda.</h2>;
-  const three = <h3 className="big-heading">I am a Machine Learning enthusiast.</h3>;
+  const three = <h3 className="big-heading">I am a Data Science enthusiast.</h3>;
   const four = (
     <p>
-      I'm an Electronic Engineer based in Colombo, Sri Lanka with experience in Research 
-      and Development and I love working on projects that involve Deep Learning and Computer Vision.
+      I'm a MSc student based in Nottingham currently studying Data Science at Nottingham Trent University, United Kingdom.
     </p>
   );
   const five = (
