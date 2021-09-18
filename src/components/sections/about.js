@@ -135,13 +135,12 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Yovin, an Electronic Engineer based in Colombo, Sri Lanka.
+              Hello! I'm Yovin, a MSc Data Science student based in Nottingham, United Kingdom.
             </p>
 
             <p>
-              I enjoy working on applications that involve machine learning or deep learning and I am an active participant on{' '}
-              <a href="https://www.kaggle.com/yovinyahathugoda/competitions">Kaggle</a> where multiple data science competitions are 
-              hosted by Companies or Universities.
+              I enjoy working on applications that involve machine learning or data science and have completed multiple 3-4 month long competitions on {' '}
+              <a href="https://www.kaggle.com/yovinyahathugoda/competitions">Kaggle</a>.
             </p>
 
             <p>
@@ -149,7 +148,9 @@ const About = () => {
               <a href="https://www.shu.ac.uk/">Sheffield Hallam University</a>, I joined{' '}
               <a href="https://www.keells.com/research-innovation/">John Keells Research</a> as a 
               Research Engineer and worked on a variety of projects involving electronics, IoT and 
-              image processing. I am currently working as a Computer Vision Freelancer.
+              image processing. I am currently pursuing my master's degree at{' '}
+              <a href="https://www.ntu.ac.uk/course/science-and-technology/pg/msc-data-science">Nottingham Trent University</a> and is actively looking
+              for a placement starting in 2022 at a company that would help me apply my academic knowledge and enrich my skills.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
