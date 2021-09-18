@@ -146,7 +146,7 @@ const About = () => {
             <p>
               Shortly after graduating from{' '}
               <a href="https://www.shu.ac.uk/">Sheffield Hallam University</a>, I joined{' '}
-              <a href="https://www.keells.com/research-innovation/">John Keells Research</a> as a 
+              <a href="https://www.keells.com/research-innovation">John Keells Research</a> as a 
               Research Engineer and worked on a variety of projects involving electronics, IoT and 
               image processing. I am currently pursuing my master's degree at{' '}
               <a href="https://www.ntu.ac.uk/course/science-and-technology/pg/msc-data-science">Nottingham Trent University</a> and is actively looking
