@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'Pytorch', 'C', 'Tensorflow/Keras', 'Sklearn'];
+  const skills = ['Python', 'Pytorch', 'C', 'C#', 'R', 'Tensorflow/Keras', 'Sklearn', 'OpenCV'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -149,8 +149,7 @@ const About = () => {
               <a href="https://www.keells.com/research-innovation">John Keells Research</a> as a 
               Research Engineer and worked on a variety of projects involving electronics, IoT and 
               image processing. I am currently pursuing my master's degree at{' '}
-              <a href="https://www.ntu.ac.uk/course/science-and-technology/pg/msc-data-science">Nottingham Trent University</a> and is actively looking
-              for a placement starting in 2022 at a company that would help me apply my academic knowledge and enrich my skills.
+              <a href="https://www.ntu.ac.uk/course/science-and-technology/pg/msc-data-science">Nottingham Trent University</a>.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>

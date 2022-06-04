@@ -60,7 +60,7 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I am currently looking for a Data Science placement year starting in 2022 preferably in the United Kingdom. My inbox is always open, 
+        My inbox is always open, 
         whether you have a question or just want to say hi, I'll try my best 
         to get back to you!
       </p>
