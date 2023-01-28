@@ -63,7 +63,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I am a Data Science enthusiast.</h3>;
   const four = (
     <p>
-      I'm a MSc student based in Nottingham currently studying Data Science at Nottingham Trent University, United Kingdom.
+      I'm a MSc student based in Welwyn Garden City currently studying Data Science at Nottingham Trent University, United Kingdom.
     </p>
   );
   const five = (

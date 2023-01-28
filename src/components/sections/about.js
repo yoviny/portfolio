@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'Pytorch', 'C', 'C#', 'R', 'Tensorflow/Keras', 'Sklearn', 'OpenCV'];
+  const skills = ['Python', 'Pytorch', 'C', 'C#', 'R', 'Tensorflow/Keras', 'Sklearn', 'OpenCV', 'Neo4J', 'NetworkX'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,7 +135,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Yovin, a MSc Data Science student based in Nottingham, United Kingdom.
+              Hello! I'm Yovin, a MSc Data Science student based in Welwyn Garden City, United Kingdom.
             </p>
 
             <p>
@@ -146,10 +146,12 @@ const About = () => {
             <p>
               Shortly after graduating from{' '}
               <a href="https://www.shu.ac.uk/">Sheffield Hallam University</a>, I joined{' '}
-              <a href="https://www.keells.com/research-innovation">John Keells Research</a> as a 
+              <a href="https://johnkeellsresearch.com">John Keells Research</a> as a 
               Research Engineer and worked on a variety of projects involving electronics, IoT and 
               image processing. I am currently pursuing my master's degree at{' '}
-              <a href="https://www.ntu.ac.uk/course/science-and-technology/pg/msc-data-science">Nottingham Trent University</a>.
+              <a href="https://www.ntu.ac.uk/course/science-and-technology/pg/msc-data-science">Nottingham Trent University</a>
+              and is doing my placement year as a Data Scientist at{' '}
+              <a href="https://www.roche.com">Roche, UK</a>.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
