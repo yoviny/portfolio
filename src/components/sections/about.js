@@ -149,8 +149,8 @@ const About = () => {
               <a href="https://johnkeellsresearch.com">John Keells Research</a> as a 
               Research Engineer and worked on a variety of projects involving electronics, IoT and 
               image processing. I am currently pursuing my master's degree at{' '}
-              <a href="https://www.ntu.ac.uk/course/science-and-technology/pg/msc-data-science">Nottingham Trent University </a>
-              and is doing my placement year as a Data Scientist at{' '}
+              <a href="https://www.ntu.ac.uk/course/science-and-technology/pg/msc-data-science">Nottingham Trent University</a> and 
+              is doing my placement year as a Data Scientist at{' '}
               <a href="https://www.roche.com">Roche, UK</a>.
             </p>
 
