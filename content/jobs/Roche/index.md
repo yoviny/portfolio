@@ -7,7 +7,7 @@ range: 'June 2022 - Present'
 url: 'https://www.roche.com'
 ---
 
-- Developed and deployed dashboards for data visualisation and data query applications on RS Connect.
+- Developed and deployed dashboards for data visualisation and data query applications using RS Connect.
 - Collaborating as a team to implement a federated learning architecture for unifying Multiple Sclerosis segmentation algorithms (PyTorch, TensorFlow, Matlab, ONNX) from different sites for 3D MRI images.
 - Implemented a solution to enable reusability of solutions for countries using unsupervised algorithms (clustering).
 - Leveraged NLP and Graph models (Neo4J & NetworkX) for predicting clinical study similarity and missing NCT ID’s.
