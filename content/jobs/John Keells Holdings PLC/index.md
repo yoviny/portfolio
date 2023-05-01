@@ -4,7 +4,7 @@ title: 'Research Engineer'
 company: 'John Keells Holdings PLC'
 location: 'Homagama, Sri Lanka'
 range: 'April 2018 - Nov 2019'
-url: 'https://www.keells.com/research-innovation'
+url: 'https://johnkeellsresearch.com'
 ---
 
 - Devised an imaging system capable of capturing images in multiple wavelengths by developing the electronic design and program code.
