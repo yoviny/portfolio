@@ -1,6 +1,6 @@
 ---
 date: '2017-01-29'
-title: 'Engineering Intern (Part of the industrial training required for the degree)'
+title: 'Engineering Intern'
 company: 'Sri Lanka Ports Authority'
 location: 'Colombo, Sri Lanka'
 range: 'Nov 2016 - Jan 2017'
