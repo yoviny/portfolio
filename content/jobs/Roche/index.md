@@ -1,6 +1,6 @@
 ---
 date: '2022-06-20'
-title: 'IT Data Scientist Industrial Placement'
+title: 'Data Scientist Industrial Placement'
 company: 'Roche Products Limited'
 location: 'Welwyn Garden City, United Kingdom'
 range: 'June 2022 - Present'
@@ -14,5 +14,6 @@ url: 'https://www.roche.com'
 - Devised a PDF parsing pipeline to extract information from drug protocol documents using OCR and NLP and storing in a semi-structured format in Snowflake.
 - Writing reproducible code and ensuring it is stored according to standard using version control and GitLab. 
 - Collaborated as a team based on Agile Framework to produce Minimum Viable Products (MVP) or Proof-of-Concept (PoC) products with existing data sources using Python and machine learning.
+- Technical knowledge sharing with colleagues and helping host data science workshops and hackathons.
 
 
