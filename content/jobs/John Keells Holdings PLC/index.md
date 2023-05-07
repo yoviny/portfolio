@@ -16,4 +16,5 @@ url: 'https://johnkeellsresearch.com'
 - Reduced 3D print failures up to 40% by upgrading existing 3D printer with new hardware and re-programming based on opensource firmware.
 - Overcame software and electronic related errors in projects at JKR by troubleshooting and debugging.
 - Identified and procured equipment and components required for the project and performed prior art searches related to the research project.
-- Participated in team discussions focused on developing novel ideas with a market potential.
+- Collaborated in team discussions focused on developing novel ideas with a market potential by performing prior art
+searches and testing feasibility of ideas by building proof-of-concept products.
