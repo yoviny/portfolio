@@ -7,13 +7,14 @@ range: 'June 2022 - Present'
 url: 'https://www.roche.com'
 ---
 
-- Collaborating as a team to implement a federated learning architecture for unifying Multiple Sclerosis segmentation algorithms (PyTorch,TensorFlow, Matlab, ONNX) from different sites for 3D MRI images. Personal contribution included algorithm testing, data curation and building pipelines.
-- Implemented a solution to enable reusability of solutions for countries using unsupervised algorithms (clustering).
-- Leveraged NLP and Graph models (Neo4J & NetworkX) for predicting clinical study similarity and missing NCT ID’s.
-- Implemented a PDF parsing pipeline to extract information from drug protocol documents using OCR and NLP and storing in a semi-structured format in Snowflake.
-- Writing reproducible code and ensuring it is stored according to standard using version control and GitLab.
-- Collaborated as a team based on Agile Framework to produce Minimum Viable Products (MVP) or Proof-of-Concept (PoC) products with existing data sources using Python and machine learning.
-- Developed and deployed dashboards for data visualisation and data query applications using RS Connect.
-- Organised and hosted workshops and hackathons in relation to data science.
+-	Contributed to a team implementing a federated learning architecture to unify Multiple Sclerosis segmentation algorithms (PyTorch, TensorFlow, Matlab, ONNX) across different sites for 3D MRI images to improve model performance and enhanced data privacy while increasing access to medical data. Responsibilities included algorithm testing, data curation, and pipeline construction.
+-	Implemented an unsupervised algorithm-based (clustering) solution for Roche studies, enhancing reusability and reducing costs across similar countries.
+-	Leveraged NLP and Graph models (Neo4J & NetworkX) to predict clinical study similarity and identify missing NCT IDs, facilitating accurate internal data source matching for missing studies.
+-	Developed a PDF parsing pipeline for drug protocol documents, utilizing OCR and NLP to extract data, which was stored in Snowflake in a semi-structured format for indexing and subsequent machine learning tasks.
+-	Experienced in writing reproducible code, adhering to standards via version control, and utilizing GitLab.
+-	Utilized Agile methodologies in a team setting to develop Minimum Viable Products (MVPs) and Proof-of-Concepts (PoCs) using Python (NLTK, Scikit-learn) and machine learning techniques (K-means, Node2Vec, multi-label classification), leveraging existing data to deliver business solutions and evaluate ideas from business stakeholders using a software development life cycle.
+-	Developed and deployed RS Connect-based dashboards for data visualization and querying, facilitating dataset exploration and narrative creation for non-technical users.
+-	Organized and hosted data science workshops and hackathons promoting STEM inclusion and social mobility.
+
 
 
