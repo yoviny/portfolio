@@ -7,13 +7,13 @@ range: 'April 2018 - Nov 2019'
 url: 'https://johnkeellsresearch.com'
 ---
 
-- Devised an imaging system capable of capturing images in multiple wavelengths by developing the electronic design and program code.
-- Analysed multispectral images using image processing to detect hidden stress fractures in wind turbine blades.
-- Detection of microbial colonies using an ML classifier and segmenting colonies for surface area calculation.
+- Designed an imaging system capable of capturing images in multiple wavelengths by developing the electronic design and program code.
+- Utilized image processing for multispectral image analysis to identify latent stress fractures in wind turbine blades, optimizing maintenance and repair scheduling.
+- Enhanced lab experiment efficiency by employing ML classifiers for microbial colony detection and segmentation, facilitating precise surface area calculations.
 - Developed a drone based on opensource hardware to match unique requirements of the research project.
 - Designed PCB’s using Eagle PCB and performed circuit simulations in Orcad.
-- Implemented a 3D printing monitoring system using computer vision to detect a 3D print failure.
+- Developed a computer vision-based 3D printing monitor that detects print failures, effectively reducing material waste.
 - Reduced 3D print failures up to 40% by upgrading existing 3D printer with new hardware and re-programming based on opensource firmware.
 - Overcame software and electronic related errors in projects at JKR by troubleshooting and debugging.
 - Identified and procured equipment and components required for the project and performed prior art searches related to the research project.
-- Collaborated in team discussions focused on developing novel ideas with a market potential by performing prior art searches and testing feasibility of ideas by building proof-of-concept products.
+- Contributed to team brainstorming for innovative, marketable ideas by conducting prior art searches, validating concepts through proof-of-concept product development, and fostering potential intellectual property creation.
