@@ -7,7 +7,10 @@ range: 'June 2022 - Present'
 url: 'https://www.roche.com'
 ---
 
--	Contributed to a team implementing a federated learning architecture to unify Multiple Sclerosis segmentation algorithms (PyTorch, TensorFlow, Matlab, ONNX) across different sites for 3D MRI images to improve model performance and enhanced data privacy while increasing access to medical data. Responsibilities included algorithm testing, data curation, and pipeline construction.
+-	Contributed to a team implementing a federated learning architecture to unify Multiple Sclerosis segmentation algorithms (PyTorch, TensorFlow, MONAI, Matlab, ONNX) across different sites for 3D MRI images to improve model performance and enhanced data privacy while increasing access to medical data. Responsibilities included algorithm testing, data curation, and pipeline construction.
+-	Designed a hackathon for evaluating technical capabilities of vendors by implementing and testing technical tasks including DICOM image processing, model training, inference, and deployment for vendors to replicate.
+-	Writing DICOM to NifTi conversion scripts using Python and SimpleITK for data stored in Flywheel for data standardisation for ingestion by Unet-based models and testing orientation and header information validity.
+-	Implemented a solution to enable reusability of solutions for countries using unsupervised algorithms (clustering).
 -	Implemented an unsupervised algorithm-based (clustering) solution for Roche studies, enhancing reusability and reducing costs across similar countries.
 -	Leveraged NLP and Graph models (Neo4J & NetworkX) to predict clinical study similarity and identify missing NCT IDs, facilitating accurate internal data source matching for missing studies.
 -	Developed a PDF parsing pipeline for drug protocol documents, utilizing OCR and NLP to extract data, which was stored in Snowflake in a semi-structured format for indexing and subsequent machine learning tasks.
