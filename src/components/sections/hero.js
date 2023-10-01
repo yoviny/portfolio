@@ -58,21 +58,36 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
+  // const one = <h1>Hi, my name is</h1>;
+  // const two = <h2 className="big-heading">Yovin Yahathugoda.</h2>;
+  // const three = <h3 className="big-heading">I am a Data Science enthusiast.</h3>;
+  // const four = (
+  //   <p>
+  //     I'm a Data Scientist based in Welwyn Garden City, United Kingdom currently working as a Data Scientist at Roche.
+  //   </p>
+  // );
+  // const five = (
+  //   <a href={`mailto:${email}`} className="email-link">
+  //     Get In Touch
+  //   </a>
+  // );
+
+  // const items = [one, two, three, four, five];
+
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Yovin Yahathugoda.</h2>;
-  const three = <h3 className="big-heading">I am a Data Science enthusiast.</h3>;
-  const four = (
+  const three = (
     <p>
       I'm a Data Scientist based in Welwyn Garden City, United Kingdom currently working as a Data Scientist at Roche.
     </p>
   );
-  const five = (
+  const four = (
     <a href={`mailto:${email}`} className="email-link">
       Get In Touch
     </a>
   );
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, three, four];
 
   return (
     <StyledHeroSection>
