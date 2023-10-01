@@ -135,7 +135,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Yovin, a MSc Data Science student based in Welwyn Garden City, United Kingdom.
+              Hello! I'm Yovin, a Data Scientist based in Welwyn Garden City, United Kingdom.
             </p>
 
             <p>
@@ -148,9 +148,9 @@ const About = () => {
               <a href="https://www.shu.ac.uk/">Sheffield Hallam University</a>, I joined{' '}
               <a href="https://johnkeellsresearch.com">John Keells Research</a> as a 
               Research Engineer and worked on a variety of projects involving electronics, IoT and 
-              image processing. I am currently pursuing my master's degree at{' '}
+              image processing. I recently completed my master's degree at{' '}
               <a href="https://www.ntu.ac.uk/course/science-and-technology/pg/msc-data-science">Nottingham Trent University</a> and 
-              is doing my placement year as a Data Scientist at{' '}
+              is working as a Data Scientist at{' '}
               <a href="https://www.roche.com">Roche</a>, UK.
             </p>
 
