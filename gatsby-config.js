@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Yovin Yahathugoda',
     description:
-      'Yovin Yahathugoda is a MSc Data Science student with experience in R&D and Deep Learning/Machine learning experience in image classification & segmentation.',
+      'Yovin Yahathugoda is a Data Scientist with experience in R&D and Deep Learning/Machine learning experience in image classification, segmentation and NLP.',
     siteUrl: 'https://www.yovinyahathugoda.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@YovinRY',
