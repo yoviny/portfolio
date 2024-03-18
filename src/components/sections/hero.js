@@ -78,7 +78,8 @@ const Hero = () => {
   const two = <h2 className="big-heading">Yovin Yahathugoda.</h2>;
   const three = (
     <p>
-      I'm a Data Scientist based in Welwyn Garden City, United Kingdom currently working as a Data Scientist at Roche.
+      I'm a PhD Student at King's College London currently researching on Deep Learning algorithms for Prostate Cancer
+      detection in Active Surveillance patients.
     </p>
   );
   const four = (
