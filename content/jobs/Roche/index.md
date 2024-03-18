@@ -3,7 +3,7 @@ date: '2022-06-20'
 title: 'Data Scientist Industrial Placement'
 company: 'Roche'
 location: 'Welwyn Garden City, United Kingdom'
-range: 'June 2022 - Present'
+range: 'June 2022 - January 2024'
 url: 'https://www.roche.com'
 ---
 
