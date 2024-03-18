@@ -135,23 +135,24 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Yovin, a Data Scientist based in Welwyn Garden City, United Kingdom.
+              Hello! I'm Yovin, a PhD student at{' '}
+              <a href="https://www.kcl.ac.uk/">King's College London</a>, United Kingdom studying Biomedical Engineering and Imaging Sciences.
             </p>
 
             <p>
-              I enjoy working on applications that involve machine learning or data science and have completed multiple 3-4 month long competitions on {' '}
-              <a href="https://www.kaggle.com/yovinyahathugoda/competitions">Kaggle</a>.
+              I enjoy working on applications that involve Machine Learning or Data Science and have completed multiple 3-4 month long competitions on {' '}
+              <a href="https://www.kaggle.com/yovinyahathugoda/competitions">Kaggle</a>. I have also gained valuable experience in the healthcare
+              industry while working as a Data Scientist at{' '}
+              <a href="https://www.roche.com">Roche</a>, UK.
             </p>
 
             <p>
-              Shortly after graduating from{' '}
-              <a href="https://www.shu.ac.uk/">Sheffield Hallam University</a>, I joined{' '}
+              I started my career shortly after graduating from{' '}
+              <a href="https://www.shu.ac.uk/">Sheffield Hallam University</a> and joined{' '}
               <a href="https://johnkeellsresearch.com">John Keells Research</a> as a 
               Research Engineer and worked on a variety of projects involving electronics, IoT and 
-              image processing. I recently completed my master's degree at{' '}
-              <a href="https://www.ntu.ac.uk/course/science-and-technology/pg/msc-data-science">Nottingham Trent University</a> and 
-              is working as a Data Scientist at{' '}
-              <a href="https://www.roche.com">Roche</a>, UK.
+              image processing. Afterwards I pursued a master's degree in Data Science at{' '}
+              <a href="https://www.ntu.ac.uk/course/science-and-technology/pg/msc-data-science">Nottingham Trent University</a>. 
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
