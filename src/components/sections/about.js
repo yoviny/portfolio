@@ -136,7 +136,7 @@ const About = () => {
           <div>
             <p>
               Hello! I'm Yovin, a PhD student at{' '}
-              <a href="https://www.kcl.ac.uk/">King's College London</a>, United Kingdom studying Biomedical Engineering and Imaging Sciences.
+              <a href="https://www.kcl.ac.uk/">King's College London</a> studying Biomedical Engineering and Imaging Sciences.
             </p>
 
             <p>
